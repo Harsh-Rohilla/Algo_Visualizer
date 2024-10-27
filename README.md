@@ -134,8 +134,8 @@ Time Complexity is n^2 because here i used Two itarations .
 <h3> Note : </h3>
 <ul>
 <li style="color: #fb005f; font-weight:500"> <strong> It is not mobile responsive </strong></li>
-<li style="color: #fb005f; font-weight:500"><strong> Please use Chrome browser (Recomanded)</strong> </li>
-<li style="color: #fb005f; font-weight:500"><strong> If you have low end PC .Then before opening this web app close all tab (Recomanded) </strong></li>
+<li style="color: #fb005f; font-weight:500"><strong> Please use Chrome browser (Recommended)</strong> </li>
+<li style="color: #fb005f; font-weight:500"><strong> If you have low end PC .Then before opening this web app close all tab (Recommended) </strong></li>
 </ul>
 
 
