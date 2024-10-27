@@ -105,8 +105,7 @@ Time Complexity is n^2 because here i used Two itarations .
    We can add or remove element from the front, the end or from anywhere in the list. <strong style="color:red "> But in This project we can remove or add from last in list</strong>
 
 </p>
-  <img src='./Github/Images/SinglyLinkedList.png'>
-
+  
 </div>
 
 <div>
@@ -116,7 +115,7 @@ Time Complexity is n^2 because here i used Two itarations .
    DFS is searching technique in a Graph . DFS means Depth first search. In this technique search will happen in depth of tree if seaching node is found then search is complete but id searching node is not found . it will backtrack .
 
 </p>
-  <img src='./Github/Images/Dfs.png'>
+ 
 
 </div>
 
@@ -127,7 +126,7 @@ Time Complexity is n^2 because here i used Two itarations .
  Dijkstra is very popular algorithms. It found the sortest path between two nodes . It works in weight grarph. To find the sortest path we can use adjecency matrix or adjecency list . Here i use adjecency List .
 
 </p>
-  <img src='./Github/Images/Dijkstra.png'>
+ 
 
 </div>
 
