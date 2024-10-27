@@ -63,7 +63,7 @@ Algorithm visualizer is a react base web app where we can visualize and play wit
 
 ## Highlights
 
-<img style="margin-top: 20px;margin-bottom:20px" src="./Github/Gif/Gif-Full-Tutorial.gif"/>
+
 
 ## Words about this project
 
