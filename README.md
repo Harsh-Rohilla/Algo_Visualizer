@@ -80,7 +80,7 @@ Algorithm visualizer is a react base web app where we can visualize and play wit
 Time Complexity is n^2 because here i used Two itarations .
 
 </p>
-  <img src='./Github/Images/BubbleSort.png'>
+  
 
 </div>
 
@@ -93,8 +93,7 @@ Time Complexity is n^2 because here i used Two itarations .
 **Time Complexity is O(n log n)**
 
 </p>
-  <img src='./Github/Images/QuickSort.png'>
-
+  
 </div>
 
 <div>
