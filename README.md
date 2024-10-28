@@ -43,11 +43,7 @@ Algorithm visualizer is a react base web app where we can visualize and play wit
 
 <br>
 
-## Highlights
 
-
-
-## Words about this project
 
 <div>
 
