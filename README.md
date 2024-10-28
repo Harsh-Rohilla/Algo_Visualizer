@@ -39,25 +39,7 @@ Algorithm visualizer is a react base web app where we can visualize and play wit
        // or
         yarn start
 
-### Technologies
 
-
-
-<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" height="32" width="32" src="https://brandeps.com/logo-download/N/Node-JS-logo-vector-01.svg" />
-
-<img align="left" height="32" width="32" src="https://brandeps.com/icon-download/J/Jss-icon-vector-01.svg" />
-
-<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
-
-<img align="left" height="32" width="32" src="https://brandeps.com/logo-download/Y/Yarn-logo-vector-01.svg" />
-
-<img align="left" height="32" width="32" src="https://brandeps.com/icon-download/N/Npm-icon-vector-07.svg" />
 
 <br>
 
