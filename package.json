@@ -31,7 +31,7 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
-    "prebuild": "NODE_OPTIONS='--openssl-legacy-provider' && npm install"
+    "prebuild": "NODE_OPTIONS='--openssl-legacy-provider' && yarn install",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -56,3 +56,4 @@
     ]
   }
 }
+
